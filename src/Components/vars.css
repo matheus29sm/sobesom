@@ -1,0 +1,17 @@
+:root {
+    /* font */
+    --font: "DM sans", sans-serif;
+
+    /* background */
+    --bg-icon: #131313;
+    --bg-arrow: rgba(0,0,0.7);
+
+    /* text */
+    --text-primary: #78c634;
+    --text-dark: #000;
+    --text-light: #fff;
+    --text-sub: #a7a7a7;
+
+}
+
+/*  */
